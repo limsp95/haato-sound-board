@@ -1,0 +1,722 @@
+{
+  "groups": [
+    {
+      "group_name": "haatoclips",
+      "group_description": {
+        "zh": "haatoclips",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "09152020-panting",
+          "path": "1.haatoclips/09152020-panting.mp3",
+          "description": {
+            "zh": "09152020-panting",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "09152020-subscribemeee",
+          "path": "1.haatoclips/09152020-subscribemeee.mp3",
+          "description": {
+            "zh": "09152020-subscribemeee",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "09162020-baka",
+          "path": "1.haatoclips/09162020-baka.mp3",
+          "description": {
+            "zh": "09162020-baka",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "09162020-meltdown",
+          "path": "1.haatoclips/09162020-meltdown.mp3",
+          "description": {
+            "zh": "09162020-meltdown",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "09162020-wewe",
+          "path": "1.haatoclips/09162020-wewe.mp3",
+          "description": {
+            "zh": "09162020-wewe",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "AAA_That_was_close",
+          "path": "1.haatoclips/AAA_That_was_close.mp3",
+          "description": {
+            "zh": "AAA_That_was_close",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Ababamamamamama",
+          "path": "1.haatoclips/Ababamamamamama.mp3",
+          "description": {
+            "zh": "Ababamamamamama",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Baby_Shark_Random_Choice",
+          "path": "1.haatoclips/Baby_Shark_Random_Choice.mp3",
+          "description": {
+            "zh": "Baby_Shark_Random_Choice",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Cute_Humming_Red_Heart",
+          "path": "1.haatoclips/Cute_Humming_Red_Heart.mp3",
+          "description": {
+            "zh": "Cute_Humming_Red_Heart",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Everythings_dirty",
+          "path": "1.haatoclips/Everythings_dirty.mp3",
+          "description": {
+            "zh": "Everythings_dirty",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Haachama_Love_You_09_21",
+          "path": "1.haatoclips/Haachama_Love_You_09_21.mp3",
+          "description": {
+            "zh": "Haachama_Love_You_09_21",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Haatos_Cube_of_Pain",
+          "path": "1.haatoclips/Haatos_Cube_of_Pain.mp3",
+          "description": {
+            "zh": "Haatos_Cube_of_Pain",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Haa_Haa_Haachama_09_21",
+          "path": "1.haatoclips/Haa_Haa_Haachama_09_21.mp3",
+          "description": {
+            "zh": "Haa_Haa_Haachama_09_21",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "If_you_dont_subscibe_nothing_happen_but_its_free",
+          "path": "1.haatoclips/If_you_dont_subscibe_nothing_happen_but_its_free.mp3",
+          "description": {
+            "zh": "If_you_dont_subscibe_nothing_happen_but_its_free",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "I_am_Lucky",
+          "path": "1.haatoclips/I_am_Lucky.mp3",
+          "description": {
+            "zh": "I_am_Lucky",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Love_Its_Love_09_21",
+          "path": "1.haatoclips/Love_Its_Love_09_21.mp3",
+          "description": {
+            "zh": "Love_Its_Love_09_21",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Media1",
+          "path": "1.haatoclips/Media1.mkv",
+          "description": {
+            "zh": "Media1",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "NANI_Haachama",
+          "path": "1.haatoclips/NANI_Haachama.mp3",
+          "description": {
+            "zh": "NANI_Haachama",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Oh_My_God_Kusa",
+          "path": "1.haatoclips/Oh_My_God_Kusa.mp3",
+          "description": {
+            "zh": "Oh_My_God_Kusa",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Pien",
+          "path": "1.haatoclips/Pien.mp3",
+          "description": {
+            "zh": "Pien",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Stupid_WOW",
+          "path": "1.haatoclips/Stupid_WOW.mp3",
+          "description": {
+            "zh": "Stupid_WOW",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Thats_Stupid_Question",
+          "path": "1.haatoclips/Thats_Stupid_Question.mp3",
+          "description": {
+            "zh": "Thats_Stupid_Question",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "That_Tricky_Question",
+          "path": "1.haatoclips/That_Tricky_Question.mp3",
+          "description": {
+            "zh": "That_Tricky_Question",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "The_Man_Already_Dead",
+          "path": "1.haatoclips/The_Man_Already_Dead.mp3",
+          "description": {
+            "zh": "The_Man_Already_Dead",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Who_is_Bob_09_21",
+          "path": "1.haatoclips/Who_is_Bob_09_21.mp3",
+          "description": {
+            "zh": "Who_is_Bob_09_21",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "wow_one_head_one_foot_four_legs",
+          "path": "1.haatoclips/wow_one_head_one_foot_four_legs.mp3",
+          "description": {
+            "zh": "wow_one_head_one_foot_four_legs",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "Wow_Thats_Haachama",
+          "path": "1.haatoclips/Wow_Thats_Haachama.mp3",
+          "description": {
+            "zh": "Wow_Thats_Haachama",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "YAY_Smart",
+          "path": "1.haatoclips/YAY_Smart.mp3",
+          "description": {
+            "zh": "YAY_Smart",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "尖叫心",
+      "group_description": {
+        "zh": "尖叫心",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "尖叫心01（兔子人）",
+          "path": "2.尖叫心/尖叫心01（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心01（兔子人）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "尖叫心02（兔子人）",
+          "path": "2.尖叫心/尖叫心02（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心02（兔子人）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "尖叫心03（兔子人）",
+          "path": "2.尖叫心/尖叫心03（兔子人）.mp3",
+          "description": {
+            "zh": "尖叫心03（兔子人）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "尖叫心04（兔子人）-这种事情都没听说过呀",
+          "path": "2.尖叫心/尖叫心04（兔子人）-这种事情都没听说过呀.mp3",
+          "description": {
+            "zh": "尖叫心04（兔子人）-这种事情都没听说过呀",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "尖叫心05（事故物件）",
+          "path": "2.尖叫心/尖叫心05（事故物件）.mp3",
+          "description": {
+            "zh": "尖叫心05（事故物件）",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "萝莉心",
+      "group_description": {
+        "zh": "萝莉心",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "萝莉心01-（胜利）",
+          "path": "3.萝莉心/萝莉心01-（胜利）.mp3",
+          "description": {
+            "zh": "萝莉心01-（胜利）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "萝莉心02-辱骂",
+          "path": "3.萝莉心/萝莉心02-辱骂.mp3",
+          "description": {
+            "zh": "萝莉心02-辱骂",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "萝莉心03-看着我可爱的身姿被萌死吧mp3",
+          "path": "3.萝莉心/萝莉心03-看着我可爱的身姿被萌死吧mp3.mp3",
+          "description": {
+            "zh": "萝莉心03-看着我可爱的身姿被萌死吧mp3",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "萝莉心04-贵安，我是心心哟",
+          "path": "3.萝莉心/萝莉心04-贵安，我是心心哟.mp3",
+          "description": {
+            "zh": "萝莉心04-贵安，我是心心哟",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "辱骂心",
+      "group_description": {
+        "zh": "辱骂心",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "辱骂心01",
+          "path": "4.辱骂心/辱骂心01.mp3",
+          "description": {
+            "zh": "辱骂心01",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "辱骂心02-你这抖M猪",
+          "path": "4.辱骂心/辱骂心02-你这抖M猪.mp3",
+          "description": {
+            "zh": "辱骂心02-你这抖M猪",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "辱骂心03",
+          "path": "4.辱骂心/辱骂心03.mp3",
+          "description": {
+            "zh": "辱骂心03",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "辱骂心04",
+          "path": "4.辱骂心/辱骂心04.mp3",
+          "description": {
+            "zh": "辱骂心04",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "学中文",
+      "group_description": {
+        "zh": "学中文",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "学中文01-但是拒绝",
+          "path": "5.学中文/学中文01-但是拒绝.mp3",
+          "description": {
+            "zh": "学中文01-但是拒绝",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文02-你好吗",
+          "path": "5.学中文/学中文02-你好吗.mp3",
+          "description": {
+            "zh": "学中文02-你好吗",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文03-你好骚啊",
+          "path": "5.学中文/学中文03-你好骚啊.mp3",
+          "description": {
+            "zh": "学中文03-你好骚啊",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文04-你在想peach？",
+          "path": "5.学中文/学中文04-你在想peach？.mp3",
+          "description": {
+            "zh": "学中文04-你在想peach？",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文05-我是猪",
+          "path": "5.学中文/学中文05-我是猪.mp3",
+          "description": {
+            "zh": "学中文05-我是猪",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文06-你叫什么？你叫dd",
+          "path": "5.学中文/学中文06-你叫什么？你叫dd.mp3",
+          "description": {
+            "zh": "学中文06-你叫什么？你叫dd",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文07-你喝不喝咖啡？",
+          "path": "5.学中文/学中文07-你喝不喝咖啡？.mp3",
+          "description": {
+            "zh": "学中文07-你喝不喝咖啡？",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文08-DD斩首，变态斩首",
+          "path": "5.学中文/学中文08-DD斩首，变态斩首.mp3",
+          "description": {
+            "zh": "学中文08-DD斩首，变态斩首",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文09-变态傻瓜别朝这里看",
+          "path": "5.学中文/学中文09-变态傻瓜别朝这里看.mp3",
+          "description": {
+            "zh": "学中文09-变态傻瓜别朝这里看",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文10-吃葡萄不吐葡萄皮",
+          "path": "5.学中文/学中文10-吃葡萄不吐葡萄皮.mp3",
+          "description": {
+            "zh": "学中文10-吃葡萄不吐葡萄皮",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文11-你好骚啊",
+          "path": "5.学中文/学中文11-你好骚啊.mp3",
+          "description": {
+            "zh": "学中文11-你好骚啊",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文12-我很可爱",
+          "path": "5.学中文/学中文12-我很可爱.mp3",
+          "description": {
+            "zh": "学中文12-我很可爱",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "学中文13-我最喜欢你啦",
+          "path": "5.学中文/学中文13-我最喜欢你啦.mp3",
+          "description": {
+            "zh": "学中文13-我最喜欢你啦",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "hso",
+      "group_description": {
+        "zh": "hso",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "喂！下半身·不脱吗？",
+          "path": "6.hso/喂！下半身·不脱吗？.mp3",
+          "description": {
+            "zh": "喂！下半身·不脱吗？",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "百奇",
+          "path": "6.hso/百奇.mp3",
+          "description": {
+            "zh": "百奇",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "这种事在办公室里可不行哦不快点回去工作的话会被骂的啊",
+          "path": "6.hso/这种事在办公室里可不行哦不快点回去工作的话会被骂的啊.mp3",
+          "description": {
+            "zh": "这种事在办公室里可不行哦不快点回去工作的话会被骂的啊",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "通常",
+      "group_description": {
+        "zh": "通常",
+        "ja": "",
+        "en": ""
+      },
+      "voice_list": [
+        {
+          "name": "通常01（兔子人）",
+          "path": "7.通常/通常01（兔子人）.mp3",
+          "description": {
+            "zh": "通常01（兔子人）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常02（兔子人）-反派笑声",
+          "path": "7.通常/通常02（兔子人）-反派笑声.mp3",
+          "description": {
+            "zh": "通常02（兔子人）-反派笑声",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常03-杂鱼之歌",
+          "path": "7.通常/通常03-杂鱼之歌.mp3",
+          "description": {
+            "zh": "通常03-杂鱼之歌",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常04-这是赤井心哦",
+          "path": "7.通常/通常04-这是赤井心哦.mp3",
+          "description": {
+            "zh": "通常04-这是赤井心哦",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常05-你都做了什么呀，不可原谅",
+          "path": "7.通常/通常05-你都做了什么呀，不可原谅.mp3",
+          "description": {
+            "zh": "通常05-你都做了什么呀，不可原谅",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常06-社畜什么的，去给我好好工作呀",
+          "path": "7.通常/通常06-社畜什么的，去给我好好工作呀.mp3",
+          "description": {
+            "zh": "通常06-社畜什么的，去给我好好工作呀",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常07-neeee这个不妙呀",
+          "path": "7.通常/通常07-neeee这个不妙呀.mp3",
+          "description": {
+            "zh": "通常07-neeee这个不妙呀",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常08-呜呜呜不要啊",
+          "path": "7.通常/通常08-呜呜呜不要啊.mp3",
+          "description": {
+            "zh": "通常08-呜呜呜不要啊",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常09-哈恰马其实是homo哦",
+          "path": "7.通常/通常09-哈恰马其实是homo哦.mp3",
+          "description": {
+            "zh": "通常09-哈恰马其实是homo哦",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常10-哈恰马才没有什么错对吧（wtm直接复刻）",
+          "path": "7.通常/通常10-哈恰马才没有什么错对吧（wtm直接复刻）.mp3",
+          "description": {
+            "zh": "通常10-哈恰马才没有什么错对吧（wtm直接复刻）",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常11-喷嚏",
+          "path": "7.通常/通常11-喷嚏.mp3",
+          "description": {
+            "zh": "通常11-喷嚏",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常12-心心厨房歌",
+          "path": "7.通常/通常12-心心厨房歌.mp3",
+          "description": {
+            "zh": "通常12-心心厨房歌",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常13-心心打喷嚏",
+          "path": "7.通常/通常13-心心打喷嚏.mp3",
+          "description": {
+            "zh": "通常13-心心打喷嚏",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常14-这就是命运，我们诞生既是为了相遇",
+          "path": "7.通常/通常14-这就是命运，我们诞生既是为了相遇.mp3",
+          "description": {
+            "zh": "通常14-这就是命运，我们诞生既是为了相遇",
+            "ja": "",
+            "en": ""
+          }
+        },
+        {
+          "name": "通常15-心心op",
+          "path": "7.通常/通常15-心心op.mp3",
+          "description": {
+            "zh": "通常15-心心op",
+            "ja": "",
+            "en": ""
+          }
+        }
+      ]
+    }
+  ]
+}
